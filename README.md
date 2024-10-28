@@ -1,5 +1,26 @@
 # SpringMFrontend
 
+Création d'une application SpringBoot Mongodb Angular
+Ce mini projet permet de réaliser des enregistrements d'étudiants, de modifier les enregistrements et de les supprimer
+
+La partie Backend : Java Spring Boot Mongodb
+La partie Front : Angular 17
+
+Create Student
+![image](https://github.com/user-attachments/assets/9f6bb43c-9340-4eec-8bc6-6f0eccf6e710)
+
+DataBase after registration all infomations
+
+![image](https://github.com/user-attachments/assets/c8d3491a-6dc6-4e6e-932d-66190959344c)
+
+Result : 
+![image](https://github.com/user-attachments/assets/f8671586-183e-4bf2-a8e8-c738f0479798)
+
+
+Edit Student
+![image](https://github.com/user-attachments/assets/c7fe743a-0aaf-4731-98c4-792fb4c0004f)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.9.
 
 ## Development server
